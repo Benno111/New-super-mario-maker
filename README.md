@@ -1,1 +1,1 @@
-# New-super-marii-maker
+# New-super-mario-maker
